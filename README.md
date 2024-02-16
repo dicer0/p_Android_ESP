@@ -11,4 +11,4 @@ And this specific repository contains documentation about the Android Studio pla
 <br/>
 &nbsp;
 
-[![Altium Designer](http://dicer0.com/wp-content/uploads/2023/10/p_Android-1.gif)](https://dicer0.com/#skills)
+[![Android](http://dicer0.com/wp-content/uploads/2023/10/p_Android-1.gif)](https://dicer0.com/#skills)
